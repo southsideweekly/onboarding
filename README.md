@@ -1,5 +1,5 @@
 ## Joining the SSW Data Team
-Hello! We'd love to work with you. **[First and foremost, please fill out the new contributor form.](https://southsideweekly.com/contribute/)** 
+Hello! We'd love to work with you. **[If you haven't done so already, please fill out the new contributor form.](https://southsideweekly.com/contribute/)** 
 
 Data Editor: Jasmine Mithani, `jasmine.mithani@southsideweekly.com`
 
